@@ -1,4 +1,4 @@
-# Cirrhosis and Stroke data 
+# Cirrhosis Data 
 ---
 ## Cirrhosis Data Set 
 ### Brief Decscription of Data 
