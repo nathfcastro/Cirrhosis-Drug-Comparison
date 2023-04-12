@@ -19,4 +19,4 @@ Total of 424 PBC patients that was referred by ther Mayo clinic during a ten-yea
 #### The visual above depicts that patients with a low bilirubin have taken the D-penicillamine and the patints with high biliburin have taken the placebo which indicates whether the drug was affected or not. 
 ---
 ## Conclusion: 
-Using the random forest classifier was the best method because it had a 64% accuracy while the KNN model had a 62% accuracy. 
+Using the random forest classifier was the best method because it had a 64% accuracy while the KNN model had a 62% accuracy. The model could solve over 60% of the busines problem because it depicts on the lab levels of patients when the placebo is taken or when D-pencillamine was taken. My reccomendations for the stakeholders is to use the Random Forest Classifier to ensure they would have the highest accuracy they can get. Additionally, having the unknown variable in the target unit should not be present and to ensure a more accurate result. 
