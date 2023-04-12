@@ -10,10 +10,13 @@ Total of 424 PBC patients that was referred by ther Mayo clinic during a ten-yea
 #### Target: Drug - the type of drug that was given to the patients during the clinical trial (placebo or D-penicillamine).
 #### Number of Features: 19 Features in this dataset. 
 ---
-## Stroke Data Set 
-Data Source: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
-
-"This dataset is used to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status. Each row in the data provides relavant information about the patient." (fedesoriano)
-
-#### Target: stroke - whether or not the patient had a stroke or not (0 or 1) 
-#### Number of Features: 11 features in this dataset. 
+## Visual One:
+![image](https://user-images.githubusercontent.com/122195358/231598053-eb90a4df-e1fe-4b18-9ba5-dcc76bb7c0b8.png)
+The visual above explains that most patients who have taken the Placebo drug are with the stage one to stage four, however the patients who are stage 3 and less have taken the D-penicillamine. 
+---
+## Visual Two:
+![image](https://user-images.githubusercontent.com/122195358/231598307-3d44ff70-a644-447f-96f1-55a19d34e781.png)
+The visual above depicts that patients with a low bilirubin have taken the D-penicillamine and the patints with high biliburin have taken the placebo which indicates whether the drug was affected or not. 
+---
+## Conclusion: 
+Using the random forest classifier was the best method because it had a 64% accuracy while the KNN model had a 62% accuracy. 
