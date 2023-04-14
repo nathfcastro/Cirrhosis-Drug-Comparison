@@ -11,9 +11,8 @@ Total of 424 PBC patients that was referred by ther Mayo clinic during a ten-yea
 #### Number of Features: 19 Features in this dataset. 
 ---
 ## Visual One:
-![image](https://user-images.githubusercontent.com/122195358/232169717-92abfdc5-c933-4e23-9f45-1767507f9ad0.png)
-#### Majority of patients who used the placebo drug has a lower Alkaline Phosphatase level which indicates the drug is not taking effect on the patients. 
-Majority of patients who use the D-penicillamine has a higher Alkaline Phosphatase level which indicates the drug is working 
+![image](https://user-images.githubusercontent.com/122195358/232169953-dc18681f-6d9b-4b01-bc13-e34ffb247be5.png)
+#### Majority of patients who used the placebo drug has a lower Alkaline Phosphatase level which indicates the drug is not taking effect on the patients. Majority of patients who use the D-penicillamine has a higher Alkaline Phosphatase level which indicates the drug is working 
 ---
 ## Visual Two:
 ![image](https://user-images.githubusercontent.com/122195358/232169777-4083fb5b-56eb-49c0-9bd5-d9861ddae04a.png)
